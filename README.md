@@ -1,6 +1,5 @@
 # Ionic Capacitor Web & Mobile App
 - This is an app compatible both for mobile and web but more optimized in mobile(iOs,Android) created using React JS, Ionic, Typescript, Capacitor, Swiper, PWA
-- to install please do read notes in https://github.com/dalelantowork/ionic-capacitor-web-mobile-app/blob/main/znotes.md
 
 ### App in iOS and Web
 ![App](https://raw.githubusercontent.com/dalelantowork/ionic-capacitor-web-mobile-app/main/public/images/App.png)
